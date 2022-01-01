@@ -2,7 +2,7 @@
 %
 % this is a main script to check the A* algorithm
 %
-% - written by: Dimitri Lezcano
+
 
 %% Set-Up 
 % Adjacency matrix

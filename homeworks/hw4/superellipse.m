@@ -2,7 +2,6 @@
 %
 % this is a function for generating super-ellipse boundary points in 2-D
 %
-% - written by: Dimitri Lezcano
 
 
 function boundary = superellipse(t, a1, a2, epsilon)

@@ -2,7 +2,6 @@
 %
 % this is a script to draw the face with nose patch
 %
-% - written by: Dimitri Lezcano
 
 %% Set-Up
 % script options

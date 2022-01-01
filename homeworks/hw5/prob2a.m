@@ -2,7 +2,6 @@
 %
 % this is a function to test homeomorphism
 % 
-% - written by: Dimitri Lezcano
 
 %% Main function
 function pts = prob2a(t)

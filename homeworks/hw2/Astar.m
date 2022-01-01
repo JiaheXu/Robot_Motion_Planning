@@ -2,7 +2,7 @@
 %
 % this ia function to perform A* graph search algorithm on an adjacency matrix
 %
-% - written by: Dimitri Lezcano
+
 
 %% Main Function
 function path = Astar(adj_mat, x_init, x_goal, kwargs)

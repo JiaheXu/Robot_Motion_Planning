@@ -1,8 +1,7 @@
 %% fn_c_obstacles.m
 %
 % performs a minkowski difference for get the C-Space for obstacles
-%
-% - written by: Dimitri Lezcano
+
 
 function [C_obs] = fn_c_obstacles(O_V, A0_V, q)
     %% Arguments Block

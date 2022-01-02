@@ -1,8 +1,7 @@
 %% main_c_obstacles.m
 %
 % main script to test the function "fn_c_obstacles.m"
-%
-% - written by: Dimitri Lezcano
+
 
 %% Set-Up
 %  problem 5 as an example

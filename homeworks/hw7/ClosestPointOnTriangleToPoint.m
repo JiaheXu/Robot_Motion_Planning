@@ -1,8 +1,7 @@
 %% ClosestPointOnTriangleToPoint.m
 %
 % this is a function to get the cloest Point on a triangle to a point
-%
-% - written by: Dimitri Lezcano
+
 
 function [closest_pt, vor, edge] = ClosestPointOnTriangleToPoint(triangle, pt)
     %% Argument Block

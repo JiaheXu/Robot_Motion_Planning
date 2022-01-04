@@ -1,8 +1,7 @@
 %% minkowski_sum.m
 %
 % this is a function to perform a minkowski sum for 2D shapes
-%
-% - written by: Dimitri Lezcano
+
 
 function C = minkowski_sum(A, B)
     %% Arguments block

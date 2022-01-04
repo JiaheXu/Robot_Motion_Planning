@@ -1,8 +1,7 @@
 %%  ClosestPointOnTriangleToOrigin.m
 %
 % this is a function to get the cloest Point on a triangle to the origin
-%
-% - written by: Dimitri Lezcano
+
 
 function [closest_pt, vor, edge] = ClosestPointOnTriangleToOrigin(triangle)
     %% Argument Block

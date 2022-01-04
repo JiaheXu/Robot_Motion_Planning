@@ -2,8 +2,7 @@
 %
 % this is a script to test the ClosestPointOnTriangleToPoint, 
 % ClosestPointOnTriangleToOrigin, and GJKalg_2D functions
-%
-% - written by: Dimitri Lezcano
+
 
 %% Set-up
 % triangle set-up

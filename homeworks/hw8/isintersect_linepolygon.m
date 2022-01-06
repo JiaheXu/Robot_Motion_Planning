@@ -8,8 +8,7 @@
 %
 % Return:
 %   - boolean true if intersects the polygon, otherwise false
-%
-% - written by: Dimitri Lezcano
+
 
 function does_intersect = isintersect_linepolygon(P, q_line)
     %% arugments block

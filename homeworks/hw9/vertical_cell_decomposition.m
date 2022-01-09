@@ -2,8 +2,7 @@
 %
 % this is a function file to create the vertical cell decomposition
 % of a 2D rigid-body robot moving in the plane
-%
-% - written by: Dimitri Lezcano
+
 
 function [V, E, n_init, n_goal, G] = vertical_cell_decomposition_brute(qI, qG, CB, bounds)
 	%% Arguments Block

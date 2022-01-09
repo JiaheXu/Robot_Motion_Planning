@@ -1,8 +1,7 @@
 %% grad_Uatt.m
 %
 % function to compute the gradient of the attraction potential
-%
-% - written by: Dimitri Lezcano
+
 
 function g_Uatt = grad_Uatt(q, qG, d_min)
     %% Arguments block

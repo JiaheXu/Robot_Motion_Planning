@@ -1,8 +1,6 @@
 m%% prob1_potfield.m
 %
 % this runs the potential field method on problem 1
-%
-% - written by: Dimitri Lezcano
 
 function prob1_potfield
     %% Set-Up

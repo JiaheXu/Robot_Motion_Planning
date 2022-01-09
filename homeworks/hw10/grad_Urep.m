@@ -1,8 +1,7 @@
 %% grad_Urep.m
 %
 % gradient of repulsive potential field
-%
-% - written by: Dimitri Lezcano
+
 
 function g_Urep = grad_Urep(q, CB, d_max)
     %% Arguments Block
